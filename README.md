@@ -60,7 +60,7 @@ Fatto da Nikita Myroniuk
 
 
 Tutti i link necessari:
-https://www.tinkercad.com/things/giDzrVvdgzD-circuito-di-condizionamento-tmp-36-nikita-myroniuk
+https://www.tinkercad.com/things/giDzrVvdgzD-circuito-di-condizionamento-tmp-36-nikita-myroniuk?sharecode=VcHktzstXJ2wWLT5jurK-uSyVZyG5gdduJfMteM3Q8Q
 Anche ci sono i file allegati.
 Scopri di più su:
 https://github.com/aunkerrr/Circuito-di-condizionamento-Tmp-36-Nikita-Myroniuk-
