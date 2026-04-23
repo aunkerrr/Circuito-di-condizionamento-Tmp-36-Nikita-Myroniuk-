@@ -1,0 +1,10 @@
+﻿Nome,Quantità,Componente
+"U3",1," Arduino Uno R3"
+"R1, R2, R6",3,"10 kΩ Resistenza"
+"R3, R4",2,"100 kΩ Resistenza"
+"P1, P2",2,"12 , 5  Alimentatore"
+"Meter1, Meter2, Meter3, Meter5, Meter6",5,"Tensione Multimetro"
+"U2, U4, U5",3," Amplificatore operazionale 741"
+"P3",1,"5 , 5  Alimentatore"
+"R5",1,"115 kΩ Resistenza"
+"U1",1," Sensore di temperatura [TMP36]"
