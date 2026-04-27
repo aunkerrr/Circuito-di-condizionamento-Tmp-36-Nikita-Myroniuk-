@@ -1,5 +1,5 @@
 # Circuito-di-condizionamento-Tmp-36-Nikita-Myroniuk-
-This project made for demonstration of mine basic electrical competence
+This project made for demonstration of mine basic electrical circuits assembling competence
 
 Fatto da Nikita Myroniuk
 ======================================================================== REPORT TECNICO: CONDIZIONAMENTO SEGNALE SENSORE TMP36 (-10C/+40C)
